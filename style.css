@@ -1,0 +1,44 @@
+.head-book{
+    background-color: rgba(63, 67, 10, 0.849);
+    
+}
+
+.head-book-item{
+    list-style: none;
+}
+.book-image{
+    width: 150px;
+}
+
+.buttons{
+    width: 1500px;
+    height: 70px;
+    background-color: orange;
+    
+}
+
+.overlay{
+    width: 100px;
+    height: 100px;
+    top: 0;
+    left:0;
+    background-color: rgb(30, 255, 0);
+    opacity: 0;
+}
+
+.head-book-item:hover .overlay{
+    opacity: 1;
+}
+
+.hover{
+    background-color: white;
+}
+
+.head-body{
+    background-color: rgb(110, 106, 106);
+}
+
+.head-text{
+    display: flex;
+    text-align: center;
+}
