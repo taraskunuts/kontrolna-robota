@@ -22,6 +22,7 @@
     justify-content: center;
     gap: 50px;
     align-items: center;
+    border: solid black;
 }
 
 .overlay{
@@ -57,4 +58,9 @@
 
 .finally-get-book{
     background-color: white;
+}
+
+.head{
+    border: solid rgb(59, 167, 68);
+    background-color: rgb(247, 222, 0);
 }
